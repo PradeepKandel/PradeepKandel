@@ -1,14 +1,5 @@
 https://giphy.com/clips/MattressFirm-OuECSYlGINpxWXqZtz
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/PradeepKandel">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/PradeepKandel">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 With an over a decade of experience in the implementation of various Microsoft (On-prem, cloud infra & apps) products, programs, projects & technologies, Pradeep currently works as an Azure Consultant and Product & Partnerships Manager at Dogma Group. In the previous role at Dogma, Pradeep worked as an Azure Consultant & CoE(Centers of Excellence- Azure, Microsoft 365, Dynamics 365 & Power Platform among others) Manager. 
 
 Before joining Dogma, Pradeep worked as a Business Analyst for CloudChomp tools by CloudChomp, Inc. that help businesses transform from on-premises to cloud technology in order to bite into 21st Century Cloud Computing and IT Costs.
@@ -27,7 +18,11 @@ In the past, Pradeep founded Windows Server based Professional User Group- WinSe
 
 Pradeep is a Microsoft Certified Trainer (MCT) and certified professional in Azure Architect Technologies. In 2016, Pradeep was awarded Microsoft MVP (Most Valuable Professional) Award in Azure for technical community contributions by Microsoft Corp, USA. 
 
-Pradeep tweets at: 
-
-https://img.shields.io/twitter/follow/PradeepKandel?style=social
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/PradeepKandel">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/PradeepKandel">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
