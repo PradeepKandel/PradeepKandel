@@ -1,7 +1,7 @@
 https://giphy.com/clips/MattressFirm-OuECSYlGINpxWXqZtz
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/pradeepkandel">
+  <a href="https://www.linkedin.com/in/PradeepKandel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/PradeepKandel">
@@ -27,7 +27,7 @@ In the past, Pradeep founded Windows Server based Professional User Group- WinSe
 
 Pradeep is a Microsoft Certified Trainer (MCT) and certified professional in Azure Architect Technologies. In 2016, Pradeep was awarded Microsoft MVP (Most Valuable Professional) Award in Azure for technical community contributions by Microsoft Corp, USA. 
 
-Reachout to Pradeep at- 
+Pradeep tweets at: 
 
 https://img.shields.io/twitter/follow/PradeepKandel?style=social
 
